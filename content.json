@@ -1,0 +1,43 @@
+{
+    "color1": "",
+    "color2": "",
+    "color3": "",
+    "color4": "",
+    "color5": "",
+    "siteTitle": "Free Cancer",
+    "hero": {
+        "title": "Tests",
+        "backgroundImage": "./images/434721153_937844045018435_354974936822517104_n.jpg"
+    },
+    "introduction": {
+        "content": "這是一個測試網站",
+        "image": "./images/434721153_937844045018435_354974936822517104_n.jpg"
+    },
+    "documents": {
+        "title": "Documents",
+        "items": [
+            {
+                "titles": "",
+                "author": "Cancerfree",
+                "no": 273,
+                "date": "2024/09/18",
+                "tags": [
+                    "文章"
+                ]
+            }
+        ]
+    },
+    "ad1": {
+        "image": "./images/99.jpg",
+        "content": "",
+        "link": "https://www.cancerfree.io/zh-tw/index"
+    },
+    "ad2": {
+        "image": "./images/ad2.png",
+        "link": "https://tech.oen.tw/posts/2kPlDzfAJmNn96dRIorraLk6erw?locale=zh-TW"
+    },
+    "ad3": {
+        "image": "./images/ad3.png",
+        "link": "https://tech.oen.tw/posts/2kPlDzfAJmNn96dRIorraLk6erw?locale=zh-TW"
+    }
+}

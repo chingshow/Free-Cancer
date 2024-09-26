@@ -15,17 +15,7 @@
     },
     "documents": {
         "title": "Documents",
-        "items": [
-            {
-                "titles": "hello",
-                "author": "Cancerfree",
-                "no": 273,
-                "date": "2024/09/18",
-                "tags": [
-                    "文章"
-                ]
-            }
-        ]
+        "items": []
     },
     "ad1": {
         "image": "./images/99.jpg",

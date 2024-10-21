@@ -24,10 +24,12 @@
     },
     "ad2": {
         "image": "./images/ad2.png",
+        "content": "",
         "link": "https://tech.oen.tw/posts/2kPlDzfAJmNn96dRIorraLk6erw?locale=zh-TW"
     },
     "ad3": {
         "image": "./images/ad3.png",
+        "content": "",
         "link": "https://tech.oen.tw/posts/2kPlDzfAJmNn96dRIorraLk6erw?locale=zh-TW"
     }
 }
